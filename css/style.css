@@ -296,7 +296,7 @@ h3 {
     width: 100%;
 }
 @media (min-width:  768px) {
-    .formulario__cantidad { /*Cambio las columnas y filas para que en PC se vean al lado*/
+    .formulario__cantidad { /*Cambio las columnas y filas para que en PC se vean al lado los campos cantidad y campo de tallas*/
         grid-column: 2 / 3; 
         grid-row: 1 / 2; 
         
